@@ -9,7 +9,7 @@ var status =
   learning : [Golang, React, Redux, GraphQL],
   interests: [Research, Open Source Contribution],
   location: 'Russia, Moscow',
-  lastProject: '[Voicer](http://voicer.std-1368.ist.mospolytech.ru/#/)'
+  lastProject: [Voicer](http://voicer.std-1368.ist.mospolytech.ru/#/)
 }
 
 const skills = 
