@@ -1,4 +1,4 @@
-<p align="center"> <img src="hadder.gif" width="350px"  alt="jeuub" /> </p>
+<p align="center"> <img src="header.gif" width="350px"  alt="jeuub" /> </p>
 <h2 align="center">Hi, I'm Jeuub Bodur 👋</h1>
 
 
