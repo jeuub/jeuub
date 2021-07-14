@@ -1,4 +1,4 @@
-<p align="center"> <img src="header.gif" width="350px"  alt="jeuub" /> </p>
+
 <h2 align="center">Hi, I'm Jeuub Bodur 👋</h1>
 
 
@@ -7,7 +7,9 @@
 var status = 
 { 
   learning : [Golang, React, Redux, GraphQL],
-  interests: [Research, Open Source Contribution]
+  interests: [Research, Open Source Contribution],
+  location: 'Russia, Moscow',
+  lastProject: '[Voicer](http://voicer.std-1368.ist.mospolytech.ru/#/)'
 }
 
 const skills = 
