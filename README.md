@@ -1,16 +1,44 @@
-### Hi there 👋
+<p align="center"> <img src="hadder.gif" width="350px"  alt="jeuub" /> </p>
+<h2 align="center">Hi, I'm Jeuub Bodur 👋</h1>
 
-<!--
-**jeuub/jeuub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var status = 
+{ 
+  learning : [Golang, React, Redux, GraphQL],
+  interests: [Research, Open Source Contribution]
+}
+
+const skills = 
+{
+  languages: [Javascript, Html, Css, Scss/Sass, C#, Python, Java],
+  
+  libraries:[Jquery, React, Anime.js, Chart.js, Matplotlib, Tkinter],
+  
+  frameworks: [Bootstrap, Node, Express, Vue],
+  
+  databases: [PostgreSQL, MongoDB],
+}
+
+
+Developer dev = new Developer(jeuub);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.copyPasteCode();
+  dev.feelProfessional();
+}
+
+
+```
+
+ <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=jeuub&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/jeuub"/>
+
+
+---
+
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jeuub&layout=compact" alt="jeuub" />
+
