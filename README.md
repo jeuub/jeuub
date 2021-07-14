@@ -1,18 +1,15 @@
 
 <h2 align="center">Hi, I'm Jeuub Bodur 👋</h1>
-
-
 ```js
 
-var status = 
+let status = 
 { 
   learning : [Golang, React, Redux, GraphQL],
   interests: [Research, Open Source Contribution],
   location: 'Russia, Moscow',
-  lastProject: [Voicer](http://voicer.std-1368.ist.mospolytech.ru/#/)
 }
 
-const skills = 
+let skills = 
 {
   languages: [Javascript, Html, Css, Scss/Sass, C#, Python, Java],
   
