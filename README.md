@@ -16,7 +16,9 @@ let skills =
   
   libraries:[Jquery, React, Anime.js, Chart.js, Matplotlib, Tkinter],
   
-  frameworks: [Bootstrap, Node, Express, Vue],
+  frameworks: [Bootstrap, Express, Vue],
+  
+  platforms: [Node],
   
   databases: [PostgreSQL, MongoDB],
 }
