@@ -26,8 +26,7 @@ let skills =
 
 Developer dev = new Developer(jeuub);
 
-while(dev.isCoding() && dev.isStuck())  
-{
+if (dev.isCoding() && dev.isStuck()){
   dev.openBrowser();
   dev.openStackOverFlow();
   dev.copyPasteCode();
