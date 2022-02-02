@@ -5,8 +5,8 @@
 
 let status = 
 { 
-  learning : [Golang, React, Redux, GraphQL],
-  interests: [Research, Open Source Contribution],
+  learning : [Rust, React, Redux, GraphQL],
+
   location: 'Russia, Moscow',
 }
 
@@ -25,13 +25,6 @@ let skills =
 
 
 Developer dev = new Developer(jeuub);
-
-if (dev.isCoding() && dev.isStuck()){
-  dev.openBrowser();
-  dev.openStackOverFlow();
-  dev.copyPasteCode();
-  dev.feelProfessional();
-}
 
 
 ```
