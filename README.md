@@ -5,14 +5,14 @@
 
 let status = 
 { 
-  learning : [Rust, React, Redux, GraphQL],
+  learning : [Rust, React, Redux],
 
   location: 'Russia, Moscow',
 }
 
 let skills = 
 {
-  languages: [Javascript, Html, Css, Scss/Sass, C#, Python, Java],
+  languages: [Javascript, Html, Css, Scss/Sass, GraphQL],
   
   libraries:[Jquery, React, Anime.js, Chart.js, Matplotlib, Tkinter],
   
