@@ -24,7 +24,7 @@ let skills =
 }
 
 
-Developer dev = new Developer(jeuub);
+Developer jeuub = new Developer({status, skills});
 
 
 ```
