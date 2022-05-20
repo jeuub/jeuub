@@ -5,7 +5,7 @@
 
 let status = 
 { 
-  learning : [Rust, React, Redux],
+  learning : [Rust, React],
 
   location: 'Russia, Moscow',
 }
